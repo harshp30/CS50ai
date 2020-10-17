@@ -14,7 +14,7 @@ Week 5: https://cs50.harvard.edu/ai/2020/projects/5/
 
 Week 6: https://cs50.harvard.edu/ai/2020/projects/6/
 
-The Problem Sets above along with quizzes were required to pass the ourse. I am not allowed to put my code online for public viewing.
+The Problem Sets above along with quizzes were required to pass the course. I am not allowed to put my code online for public viewing.
 
 Youtube Video Demonstrations: https://www.youtube.com/playlist?list=PLlHHJLJlcLpjZKZI2zcJ89g0VN7HK-Own
 
